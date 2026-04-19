@@ -14,7 +14,7 @@ on:
       FIRMWARE_URL:
         description: 'Stock ROM Link'
         required: true
-        default: ''
+        default: 'https://drive.google.com/file/d/1ozWI7s8fAIvvRuRauBZ8JBV9hHT-TWSb/view?usp=drive_link'
       GENERATE_VENDOR:
         description: 'Create Vendor Tree'
         required: true
